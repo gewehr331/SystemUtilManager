@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Таблица с данными</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f9; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        tr:hover { background-color: #ddd; }
+        a { text-decoration: none; color: inherit; display: block; }
+    </style>
+</head>
+<body>
+<h1>Данные об агенте</h1>
+<h3>Открытые порты</h3>
+<table>
+    <thead>
+    <tr>
+        <th>Номер порта</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{.AgentPorts}}
+    </tbody>
+</table>
+<h3>Установленные приложения</h3>
+<table>
+    <thead>
+    <tr>
+        <th>Приложения</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{.AgentApps}}
+    </tbody>
+</table>
+</body>
+</html>

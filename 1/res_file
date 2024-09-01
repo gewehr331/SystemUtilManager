@@ -1,0 +1,1612 @@
+{
+    "type": "Port",
+    "value": "135"
+}
+{
+    "type": "Port",
+    "value": "443"
+}
+{
+    "type": "Port",
+    "value": "445"
+}
+{
+    "type": "Port",
+    "value": "902"
+}
+{
+    "type": "Port",
+    "value": "912"
+}
+{
+    "type": "Port",
+    "value": "2343"
+}
+{
+    "type": "Port",
+    "value": "3580"
+}
+{
+    "type": "Port",
+    "value": "3582"
+}
+{
+    "type": "Port",
+    "value": "5040"
+}
+{
+    "type": "Port",
+    "value": "5432"
+}
+{
+    "type": "Port",
+    "value": "8080"
+}
+{
+    "type": "Port",
+    "value": "8090"
+}
+{
+    "type": "Port",
+    "value": "8307"
+}
+{
+    "type": "Port",
+    "value": "19669"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Development Libraries (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Standard Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Executables (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Utility Scripts (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Tcl/Tk Support (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Paradox Launcher v2"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Test Suite (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Documentation (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 pip Bootstrap (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Python 3.9.5 Core Interpreter (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Office 16 Click-to-Run Extensibility Component"
+}
+{
+    "type": "App",
+    "value": "Office 16 Click-to-Run Localization Component"
+}
+{
+    "type": "App",
+    "value": "Office 16 Click-to-Run Licensing Component"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd楫\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Microsoft .NET Framework 4.7.2 (\ufffd\ufffd\ufffd᪨\ufffd)"
+}
+{
+    "type": "App",
+    "value": "Universal CRT Headers Libraries and Sources"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Standard Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 3.1.11 Shared Framework (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host FX Resolver - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 TDMS Library"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 TDMS Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "OpenVPN Connect"
+}
+{
+    "type": "App",
+    "value": "MSI Development Tools"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Tools x86"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.5 Multi-Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "NI-RPC 14.0.0f0 for 64 Bit Windows"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Network Variable Library"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Tools x64"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Runtime - 5.0.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI Security Update (KB 67L8LCQW)"
+}
+{
+    "type": "App",
+    "value": "\ufffd\ufffd\ufffd\ufffd\ufffd SDK \ufffd\ufffd\ufffd Microsoft .NET Framework 4.8 (\ufffd\ufffd\ufffd᪨\ufffd)"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense PPI - en-us"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense UAP - Other Languages"
+}
+{
+    "type": "App",
+    "value": "NI System Web Server Base 2015"
+}
+{
+    "type": "App",
+    "value": "NI mDNS Responder 14.0 for Windows 64-bit"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.Maui.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Emscripten.Manifest"
+}
+{
+    "type": "App",
+    "value": "NI Logos 5.7 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "vs_minshellmsires"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET CoreRuntime For CoreCon"
+}
+{
+    "type": "App",
+    "value": "NI Authentication 2015 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI Logos XT Support"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219"
+}
+{
+    "type": "App",
+    "value": "NI USI 15.0.1"
+}
+{
+    "type": "App",
+    "value": "Windows SDK AddOn"
+}
+{
+    "type": "App",
+    "value": "NI VC2008MSMs x86"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30031"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219"
+}
+{
+    "type": "App",
+    "value": "vs_BlendMsi"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 8.0.0 Targeting Pack (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps Contracts"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Signing Tools"
+}
+{
+    "type": "App",
+    "value": "Windows SDK EULA"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime 2014 SP1 f3"
+}
+{
+    "type": "App",
+    "value": "IntelliTraceProfilerProxy"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "vs_clickoncebootstrappermsires"
+}
+{
+    "type": "App",
+    "value": "NI Uninstaller"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Low-Level Driver (Original)"
+}
+{
+    "type": "App",
+    "value": "NVIDIA PhysX"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK ARM Desktop Tools"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.8 SDK"
+}
+{
+    "type": "App",
+    "value": "vs_tipsmsi"
+}
+{
+    "type": "App",
+    "value": "NI Web Application Server 2015 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Targeting Pack - 5.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows Mobile Extension SDK Contracts"
+}
+{
+    "type": "App",
+    "value": "NI License Manager"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.Android.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Modern Non-Versioned Developer Tools"
+}
+{
+    "type": "App",
+    "value": "Microsoft Update Health Tools"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 6.0.9 (x64_arm)"
+}
+{
+    "type": "App",
+    "value": "NI Visual C++ 2008 Redistributable Package"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense PPI - Other Languages"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps Metadata"
+}
+{
+    "type": "App",
+    "value": "VS JIT Debugger"
+}
+{
+    "type": "App",
+    "value": "NI Curl 2015"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host FX Resolver - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X64 Additional Runtime - 14.29.30031"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense Desktop - en-us"
+}
+{
+    "type": "App",
+    "value": "NI Circuit Design Suite Databases"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Targeting Pack - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI Shared Run-Time Engine 2013 SP2 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host - 5.0.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW 2015 Deployment Framework"
+}
+{
+    "type": "App",
+    "value": "NI USI 15.0.1 64-bit"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 5.0.2 (x64_x86)"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW 2014 SP1 Run-Time Engine Web Server"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Runtime - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "vs_FileTracker_Singleton"
+}
+{
+    "type": "App",
+    "value": "vs_vswebprotocolselectormsires"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core AppHost Pack - 3.1.11 (x64_x86)"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.iOS.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI SSL LabVIEW RTE 2015 Support"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 .NET Library"
+}
+{
+    "type": "App",
+    "value": "vs_minshellinteropmsi"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 5.0.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft TestPlatform SDK Local Feed"
+}
+{
+    "type": "App",
+    "value": "Math Kernel Libraries (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664"
+}
+{
+    "type": "App",
+    "value": "Microsoft Web Deploy 4.0"
+}
+{
+    "type": "App",
+    "value": "NI VC2010SP1MSMs x64"
+}
+{
+    "type": "App",
+    "value": "NI MetaSuite Installer"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "vs_communitymsires"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual Studio Setup Configuration"
+}
+{
+    "type": "App",
+    "value": "Windows SDK"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET 6.0 Templates 6.0.401 (x64)"
+}
+{
+    "type": "App",
+    "value": "Math Kernel Libraries (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET CoreRuntime SDK"
+}
+{
+    "type": "App",
+    "value": "NI VC2008MSMs x64"
+}
+{
+    "type": "App",
+    "value": "Windows Mobile Extension SDK"
+}
+{
+    "type": "App",
+    "value": "vs_devenvmsi"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense IoT - Other Languages"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 5.0.2 Shared Framework (x86)"
+}
+{
+    "type": "App",
+    "value": "Java 8 Update 271 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI ActiveX Container"
+}
+{
+    "type": "App",
+    "value": "icecap_collection_neutral"
+}
+{
+    "type": "App",
+    "value": "ClickOnce Bootstrapper Package for Microsoft .NET Framework"
+}
+{
+    "type": "App",
+    "value": "NI Service Locator 2015"
+}
+{
+    "type": "App",
+    "value": "NI ActiveX Container (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI .NET Framework 4.0"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 6.0.9 (x64_x86)"
+}
+{
+    "type": "App",
+    "value": "Python Launcher"
+}
+{
+    "type": "App",
+    "value": "NI Multisim LabVIEW Interoperability Support 14.0.1"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Appx Resource Package"
+}
+{
+    "type": "App",
+    "value": "VS Immersive Activate Helper"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 6.0.9 Shared Framework (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Facade Windows WinMD Versioned"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 3.1.11 Shared Framework (x86)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Redistributables"
+}
+{
+    "type": "App",
+    "value": "VMware Workstation"
+}
+{
+    "type": "App",
+    "value": "NI mDNS Responder 14.0.0"
+}
+{
+    "type": "App",
+    "value": "NI Logos 5.7"
+}
+{
+    "type": "App",
+    "value": "NI System Logging Utilities"
+}
+{
+    "type": "App",
+    "value": "vs_vswebprotocolselectormsi"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 2.1.24 Shared Framework (x64)"
+}
+{
+    "type": "App",
+    "value": "vs_clickoncebootstrappermsi"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 8.0.0 (x64_x86)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core AppHost Pack - 3.1.11 (x64_arm64)"
+}
+{
+    "type": "App",
+    "value": "vs_filehandler_x86"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Targeting Pack - 5.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows IoT Extension SDK Contracts"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Toolset 8.0.100 (x64)"
+}
+{
+    "type": "App",
+    "value": "SDK ARM Redistributables"
+}
+{
+    "type": "App",
+    "value": "NI Visual C++ 2010 Redistributable Package"
+}
+{
+    "type": "App",
+    "value": "Math Kernel Libraries"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+}
+{
+    "type": "App",
+    "value": "NI Example Finder 15.0"
+}
+{
+    "type": "App",
+    "value": "NI Security Update (KB 67L8LCQW) (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps Tools"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Managed Apps Libs"
+}
+{
+    "type": "App",
+    "value": "Windows SDK DirectX x64 Remote"
+}
+{
+    "type": "App",
+    "value": "Windows App Certification Kit SupportedApiList x86"
+}
+{
+    "type": "App",
+    "value": "Microsoft System CLR Types \ufffd\ufffd\ufffd SQL Server 2019 CTP2.2"
+}
+{
+    "type": "App",
+    "value": "NI Launcher"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core AppHost Pack - 3.1.11 (x64_arm)"
+}
+{
+    "type": "App",
+    "value": "TypeScript SDK"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.8 Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Universal CRT Tools x86"
+}
+{
+    "type": "App",
+    "value": "icecap_collectionresourcesx64"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 3.1.10 Targeting Pack (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 6.0.9 (x64_arm64)"
+}
+{
+    "type": "App",
+    "value": "NI System State Publisher (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual Studio Setup WMI Provider"
+}
+{
+    "type": "App",
+    "value": "IntelliTraceProfilerProxy"
+}
+{
+    "type": "App",
+    "value": "Application Verifier x64 External Package"
+}
+{
+    "type": "App",
+    "value": "Math Kernel Libraries"
+}
+{
+    "type": "App",
+    "value": "\ufffd஢\ufffdઠ ࠡ\ufffd\ufffd\ufffdᯮᮡ\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd Windows"
+}
+{
+    "type": "App",
+    "value": "NI Logos64 XT Support"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Mono.Toolchain.Manifest"
+}
+{
+    "type": "App",
+    "value": "Universal General MIDI DLS Extension SDK"
+}
+{
+    "type": "App",
+    "value": "Update for Windows 10 for x64-based Systems (KB5001716)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.6 Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Test Suite (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft NetStandard SDK"
+}
+{
+    "type": "App",
+    "value": "NI VC2010SP1MSMs x86"
+}
+{
+    "type": "App",
+    "value": "NI Circuit Design Suite 14.0.1 Core"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Libs x86"
+}
+{
+    "type": "App",
+    "value": "vs_filehandler_amd64"
+}
+{
+    "type": "App",
+    "value": "vs_communitymsi"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Network Streams Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.29.30031"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core Targeting Pack - 3.1.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "VS Script Debugging Common"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 5.0.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI Math Kernel Libraries"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.29.30031"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host FX Resolver - 5.0.2 (x86)"
+}
+{
+    "type": "App",
+    "value": "CMake"
+}
+{
+    "type": "App",
+    "value": "icecap_collection_x64"
+}
+{
+    "type": "App",
+    "value": "Kits Configuration Installer"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4 Multi-Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "windows_toolscorepkg"
+}
+{
+    "type": "App",
+    "value": "Windows Simulator - ENU"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps Libs"
+}
+{
+    "type": "App",
+    "value": "NI-RPC 14.0.0f0"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Documentation (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Toolset 6.0.401 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Toolset 5.0.102 (x64)"
+}
+{
+    "type": "App",
+    "value": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd⥫\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Microsoft .NET Framework Intellisense \ufffd\ufffd\ufffd Visual Studio (\ufffd\ufffd\ufffd᪨\ufffd)"
+}
+{
+    "type": "App",
+    "value": "vs_Graphics_Singletonx86"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Network Streams Library"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "NI System Web Server 2015"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Analysis Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "X86 Debuggers And Tools"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.macOS.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 5.0.2 (x64_arm64)"
+}
+{
+    "type": "App",
+    "value": "NI Circuit Design Suite 14.0.1 Pro"
+}
+{
+    "type": "App",
+    "value": "vs_clickoncesigntoolmsi"
+}
+{
+    "type": "App",
+    "value": "NI System Web Server Base 2015 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET 8.0 Templates 8.0.100 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core 3.1 Templates 5.0.102 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI Update Service 15.0 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Libs x64"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Tools arm64"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Appx Package"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core Runtime - 3.1.11 (x64)"
+}
+{
+    "type": "App",
+    "value": "vs_minshellmsi"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI SSL Support"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.6.1 Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Go Programming Language amd64 go1.21.2"
+}
+{
+    "type": "App",
+    "value": "NI Error Reporting Interface 15.0"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime Interop 2015"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Core Interpreter (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.Android.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "FileInsight"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 3.1.11 (x64)"
+}
+{
+    "type": "App",
+    "value": "icecap_collectionresources"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Targeting Pack - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK DirectX x86 Remote"
+}
+{
+    "type": "App",
+    "value": "NI-Mesa"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Targeting Pack - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Desktop Appx Package"
+}
+{
+    "type": "App",
+    "value": "NI SSL LabVIEW RTE 2014 Support"
+}
+{
+    "type": "App",
+    "value": "Universal CRT Extension SDK"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT ARM64 Appx Package"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host FX Resolver - 5.0.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 8.0.0 (x64_arm64)"
+}
+{
+    "type": "App",
+    "value": "NI Trace Engine"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Add to Path (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Windows App Certification Kit Native Components"
+}
+{
+    "type": "App",
+    "value": "NI Update Service 15.0"
+}
+{
+    "type": "App",
+    "value": "vs_Graphics_Singletonx64"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 6.0.9 Targeting Pack (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core 5.0 Templates 5.0.102 (x64)"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense UAP - en-us"
+}
+{
+    "type": "App",
+    "value": "PuTTY release 0.74 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 .NET Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Low-Level Driver (Updated)"
+}
+{
+    "type": "App",
+    "value": "Universal CRT Tools x64"
+}
+{
+    "type": "App",
+    "value": "NI SSL Support (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI Trace Engine (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Windows Phone SDK 8.0 Assemblies for Visual Studio 2019"
+}
+{
+    "type": "App",
+    "value": "NI Error Reporting 2015"
+}
+{
+    "type": "App",
+    "value": "NI-Mesa"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW 2015 Real-Time NBFifo"
+}
+{
+    "type": "App",
+    "value": "NI TDM Streaming 15.0"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.tvOS.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft System CLR Types \ufffd\ufffd\ufffd SQL Server 2019 CTP2.2"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW 2012 Real-Time NBFifo"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Executables (64-bit)"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense IoT - en-us"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core Runtime - 3.1.11 (x86)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Development Libraries (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Targeting Pack - 3.1.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.Maui.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Headers arm"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Analysis Library"
+}
+{
+    "type": "App",
+    "value": "DiagnosticsHub_CollectionService"
+}
+{
+    "type": "App",
+    "value": "NI Authentication 2015"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core 2.1 Templates 5.0.102 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime 2015 Non-English Support."
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Desktop Appx Package"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 5.0.0 Targeting Pack (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.iOS.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Runtime - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Native SDK"
+}
+{
+    "type": "App",
+    "value": "NI Measurement Studio ComponentWorks 3D Graph"
+}
+{
+    "type": "App",
+    "value": "Windows IoT Extension SDK"
+}
+{
+    "type": "App",
+    "value": "Windows Desktop Extension SDK"
+}
+{
+    "type": "App",
+    "value": "NI MAX Remote Configuration 64-bit Installer 14.0"
+}
+{
+    "type": "App",
+    "value": "Windows Desktop Extension SDK Contracts"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Modern Versioned Developer Tools"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 pip Bootstrap (64-bit)"
+}
+{
+    "type": "App",
+    "value": "vcpp_crt.redist.clickonce"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 8.0.0 Shared Framework (x64)"
+}
+{
+    "type": "App",
+    "value": "NI MAX Remote Configuration Installer 14.0"
+}
+{
+    "type": "App",
+    "value": "vs_SQLClickOnceBootstrappermsi"
+}
+{
+    "type": "App",
+    "value": "Windows Team Extension SDK"
+}
+{
+    "type": "App",
+    "value": "NI System State Publisher"
+}
+{
+    "type": "App",
+    "value": "NI MDF Support"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X64 Debug Runtime - 14.28.29334"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps DirectX x86 Remote"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Framework 4.7.2 Targeting Pack"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Libs arm64"
+}
+{
+    "type": "App",
+    "value": "NI Help Assistant 2.0 (64bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Targeting Pack - 8.0.0 (x64)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Headers x64"
+}
+{
+    "type": "App",
+    "value": "NI Circuit Design Suite 14.0.1 Pro Licenses"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI Shared Run-Time Engine 2013 SP2"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 3.1.11 (x86)"
+}
+{
+    "type": "App",
+    "value": "Node.js"
+}
+{
+    "type": "App",
+    "value": "Windows Simulator"
+}
+{
+    "type": "App",
+    "value": "X64 Debuggers And Tools"
+}
+{
+    "type": "App",
+    "value": "Python 3.12.0 Tcl/Tk Support (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core AppHost Pack - 3.1.11 (x64)"
+}
+{
+    "type": "App",
+    "value": "SDK ARM Additions"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Headers arm64"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 5.0.2 (x64_arm)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Headers x86"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Run-Time Engine 7.1"
+}
+{
+    "type": "App",
+    "value": "NI Web Application Server 2015"
+}
+{
+    "type": "App",
+    "value": "WireGuard"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Runtime - 5.0.2 (x86)"
+}
+{
+    "type": "App",
+    "value": "Microsoft ASP.NET Core 5.0.2 Shared Framework (x64)"
+}
+{
+    "type": "App",
+    "value": "NI System API Windows 32-bit 14.0.0"
+}
+{
+    "type": "App",
+    "value": "Microsoft Visual C++ 2019 X86 Debug Runtime - 14.28.29334"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET AppHost Pack - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.tvOS.Manifest-6.0.300"
+}
+{
+    "type": "App",
+    "value": "NI Curl 15.0.0 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Appx Package"
+}
+{
+    "type": "App",
+    "value": "Microsoft Windows Desktop Runtime - 5.0.2 (x86)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET SDK 5.0.102 (x64) from Visual Studio"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Core Runtime - 2.1.24 (x64)"
+}
+{
+    "type": "App",
+    "value": "Microsoft .NET Host - 6.0.9 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI Run-Time Engine 2013 SP2 (Updated)"
+}
+{
+    "type": "App",
+    "value": "Windows SDK Desktop Libs arm"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime 2015 f3"
+}
+{
+    "type": "App",
+    "value": "Java Auto Updater"
+}
+{
+    "type": "App",
+    "value": "Microsoft UniversalWindowsPlatform SDK"
+}
+{
+    "type": "App",
+    "value": "Microsoft.NET.Sdk.macOS.Manifest-8.0.100-rc.2 (x64)"
+}
+{
+    "type": "App",
+    "value": "NI System API Windows 64-bit 14.0.0"
+}
+{
+    "type": "App",
+    "value": "NI Help Assistant 2.0"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense Mobile - en-us"
+}
+{
+    "type": "App",
+    "value": "Windows SDK for Windows Store Apps Headers"
+}
+{
+    "type": "App",
+    "value": "Java(TM) SE Development Kit 17.0.1 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI LabWindows/CVI 2013 SP2 Network Variable Library (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime Interop 2014"
+}
+{
+    "type": "App",
+    "value": "Oracle VM VirtualBox 6.1.14"
+}
+{
+    "type": "App",
+    "value": "Visual C++ Library CRT Desktop Appx Package"
+}
+{
+    "type": "App",
+    "value": "Universal CRT Redistributable"
+}
+{
+    "type": "App",
+    "value": "Entity Framework 6.2.0 Tools  for Visual Studio 2019"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW 2015 Run-Time Engine Web Server"
+}
+{
+    "type": "App",
+    "value": "NI Error Reporting Interface 15.0 for Windows (64-bit)"
+}
+{
+    "type": "App",
+    "value": "NI LabVIEW Runtime 2014 SP1 Non-English Support."
+}
+{
+    "type": "App",
+    "value": "NI EulaDepot"
+}
+{
+    "type": "App",
+    "value": "Windows App Certification Kit x64"
+}
+{
+    "type": "App",
+    "value": "WinAppDeploy"
+}
+{
+    "type": "App",
+    "value": "NI TDM Streaming 15.0 (64-bit)"
+}
+{
+    "type": "App",
+    "value": "Windows Team Extension SDK Contracts"
+}
+{
+    "type": "App",
+    "value": "WinRT Intellisense Desktop - Other Languages"
+}
+{
+    "type": "Port",
+    "value": "44950"
+}
+{
+    "type": "Port",
+    "value": "44960"
+}
+{
+    "type": "Port",
+    "value": "49664"
+}
+{
+    "type": "Port",
+    "value": "49665"
+}
+{
+    "type": "Port",
+    "value": "49666"
+}
+{
+    "type": "Port",
+    "value": "49667"
+}
+{
+    "type": "Port",
+    "value": "49668"
+}
+{
+    "type": "Port",
+    "value": "49669"
+}
+{
+    "type": "Port",
+    "value": "49680"
+}
+{
+    "type": "Port",
+    "value": "49689"
+}
+{
+    "type": "Port",
+    "value": "59110"
+}
+{
+    "type": "Port",
+    "value": "59111"
+}
+{
+    "type": "Port",
+    "value": "59112"
+}
+{
+    "type": "Port",
+    "value": "63342"
+}
