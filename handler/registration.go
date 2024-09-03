@@ -22,6 +22,7 @@ func registration(w http.ResponseWriter, req *http.Request) {
 		fmt.Println("Error of unmarshalling unregistered agent", err)
 	}
 	db := database_integration.ConnectToDB()
+	defer db.Close()
 	if database_integration.CheckHostnameAgents(agent.Hostname, db) {
 		database_integration.AddAgentToDB(agent.Hostname, db)
 		res = database_integration.GetIDByHostname(db, agent.Hostname)

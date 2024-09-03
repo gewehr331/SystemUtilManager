@@ -26,6 +26,7 @@ func AdminPanel(w http.ResponseWriter, req *http.Request) {
 			fmt.Println("Error of parsing template", err)
 		}
 		db := database_integration.ConnectToDB()
+		defer db.Close()
 		agents := database_integration.GetAllAgents(db)
 		var tableRows string
 		for agents.Next() {

@@ -68,6 +68,7 @@ func Synchronization(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 	db := database_integration.ConnectToDB()
+	defer db.Close()
 	if database_integration.CheckAgents(agent.Id, db) {
 		database_integration.UpdateTimeAgent(agent.Id, db)
 		w.WriteHeader(http.StatusOK)

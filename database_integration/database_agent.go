@@ -16,13 +16,13 @@ func ConnectToDB() *sql.DB {
 	return db
 }
 
-func CreateTable(db *sql.DB) {
+func CreateTableAgents(db *sql.DB) {
 	_, err := db.Query("CREATE TABLE agents (id integer, hostname varchar(128), sync_date varchar(4096)); ")
 	if err != nil {
-		fmt.Println("Error of creating table", err)
+		fmt.Println("Error of creating table agents", err)
 	}
-
 }
+
 func GetIDByHostname(db *sql.DB, hostname string) int {
 	res, err := db.Query("SELECT id FROM agents WHERE hostname=$1;", hostname)
 	if err != nil {
